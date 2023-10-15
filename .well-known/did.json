@@ -6,15 +6,15 @@
   "id": "did:web:kapilv78.github.io",
   "assertionMethod": [
     {
-      "id": "did:web:kapilv78.github.io#af2a3340e77fe32ddc98ae34767ccef05bd9e4498ea55df09beeb8fc9916aede",
+      "id": "did:web:kapilv78.github.io#a3f3cc5e591dbb6e8a6e41f1c6084d876446e72a7db4a9cc823a9fad0eeaeab8",
       "type": "JsonWebKey2020",
       "controller": "did:web:kapilv78.github.io",
       "publicKeyJwk": {
         "kty": "EC",
         "crv": "P-256",
-        "x": "SMGhVggoKN_24aKG7UWowj1GkSTe_-Jo-hxO6zOAAJ8=",
-        "y": "gPkUAj04gaYW0eN0WFSuBMV9POKWcDW2B4Dk1CE1Rkg=",
-        "kid": "af2a3340e77fe32ddc98ae34767ccef05bd9e4498ea55df09beeb8fc9916aede",
+        "x": "LPzWd86rh4305x-lw_oN6um-W1IhqQHdUgDhKui1vMU=",
+        "y": "5TlRe5wRAHItrHVeeFZG916eKlxYy5ledcvUg6iqCUk=",
+        "kid": "a3f3cc5e591dbb6e8a6e41f1c6084d876446e72a7db4a9cc823a9fad0eeaeab8",
         "alg": "ES256"
       }
     }
